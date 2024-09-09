@@ -1,2 +1,3 @@
 This is a basic calculator.
-languages used: HTML,CSS,JS
+<br>
+Languages used: HTML,CSS,JS
