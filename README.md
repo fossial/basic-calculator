@@ -2,7 +2,8 @@ This is a basic calculator.
 <br>
 Languages used: HTML,CSS,JS
 
-![0434cdb812e67d30f5_windows_xp_bliss-wide](https://github.com/user-attachments/assets/83ff53f4-8250-49fd-bb67-949e359b4e0b)
+![Screenshot 2024-09-29 221914](https://github.com/user-attachments/assets/faffc3d3-3bab-447e-af95-3cfc412cfb3d)
+
 
 
 
