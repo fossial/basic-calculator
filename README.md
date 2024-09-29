@@ -12,7 +12,10 @@ A simple web-based calculator built using HTML, CSS, and JavaScript. This projec
 
 
 Futuristic Calculator
-A sleek, responsive calculator built with HTML, CSS, and JavaScript. Featuring a modern, futuristic design with smooth animations and a user-friendly interface. Perfect for those looking to integrate stylish yet functional calculators into their projects.
+<br>
+A sleek, responsive calculator built with HTML, CSS, and JavaScript.
+<br>
+Featuring a modern, futuristic design with smooth animations and a user-friendly interface. Perfect for those looking to integrate stylish yet functional calculators into their projects.
 
 
 
